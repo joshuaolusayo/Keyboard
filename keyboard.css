@@ -1,0 +1,140 @@
+/* KEYBOARD CSS */
+body {
+	margin: 0;
+}
+
+#wrapper {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100vh;
+}
+
+.div1 {
+	padding: 20px;
+	background-color: gray;
+	width: 1190px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.div2 {
+	padding: 20px;
+	background-color: black;
+	width: 1150px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.row1 td {
+	padding: 0 10px 0 0;
+}
+
+.row1 .button01 {
+	width: 60px;
+	height: 30px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.row2 td, .row3 td, .row3 td, .row4 td, .row5 td, .row6 td {
+	padding: 0 14px 0 0;
+}
+
+.row2 .button02, .row3 .button03, .row4 .button04, .row5 .button05 {
+	width: 60px;
+	height: 60px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.row2 .button0201 {
+	width: 90px;
+	height: 60px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.row2 .button0202 {
+	width: 125px;
+	height: 60px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.row3 .button0301 {
+	width: 125px;
+	height: 60px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.row3 .button0302 {
+	width: 90px;
+	height: 60px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.row4 .button0401, .row4 .button0402 {
+	width: 145px;
+	height: 60px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.row5 .button0501, .row5 .button0502 {
+	width: 182.5px;
+	height: 60px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.row6 .button06 {
+	width: 60px;
+	height: 80px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.row6 .button0601 {
+	width: 380px;
+	height: 80px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px
+}
+
+.table8 td {
+	padding: 0;
+}
+
+.button0602 {
+	width: 60px;
+	height: 35px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.button0603 {
+	width: 60px;
+	height: 35px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
